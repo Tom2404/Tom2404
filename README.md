@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+clean%2C+purposeful+software;From+UI+to+infrastructure;React+%2F+Next.js+%2B+Node.js+%2F+Express;Always+learning%2C+always+building...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+clean%2C+purposeful+software;From+UI+to+infrastructure;React+%2F+Next.js+%2B+Node.js+%2F+Express;Where+there%27s+a+will%2C+there%27s+a+way%2C+kind+of+beautiful)](https://git.io/typing-svg)
 
 <br/>
 
