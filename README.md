@@ -109,6 +109,10 @@ Faculty of Information Technology · 3rd Year Student · Expected Graduation: 20
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a192f,50:0d2137,100:0a192f&height=140&section=footer&reversal=false&textBg=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:1a3a5c,100:0d2137&height=120&section=footer" width="100%"/>
+
+*"Where there's a will, there's a way — kind of beautiful."*
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=Tom2404&style=flat&color=58A6FF&label=Profile+Views)
 
 </div>
