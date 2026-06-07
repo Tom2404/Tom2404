@@ -86,9 +86,11 @@ Built to solve the problem of lost meeting context, MeetingMind AI turns raw con
 
 <div align="center">
 
-![Tom2404's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tom2404&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
+![Tom2404's GitHub Stats](https://github-readme-stats-psi-tan-54.vercel.app/api?username=Tom2404&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom2404&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+![GitHub Streak](https://streak-stats.demolab.com?user=Tom2404&theme=github-dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats-psi-tan-54.vercel.app/api/top-langs/?username=Tom2404&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 </div>
 
