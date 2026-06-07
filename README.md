@@ -10,7 +10,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/dongocle2404)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Dongocle2404@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Tom2404)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Tom2404/MeetingMindAI)
 
 </div>
 
@@ -52,7 +52,7 @@ Full-stack Developer with a focus on building scalable web applications and intu
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### 🔗 LC Network — AI-Powered Social Platform
 
@@ -61,11 +61,36 @@ Full-stack Developer with a focus on building scalable web applications and intu
 Built a mini social network that integrates AI to automatically review and moderate user-generated content, ensuring a safe and healthy community environment.
 
 **Key highlights:**
-- 🤖 AI content moderation pipeline integrated into the post/comment lifecycle
-- ⚡ Real-time interactions with a clean, responsive UI
-- 🏗️ Scalable backend architecture with RESTful APIs
+- AI content moderation pipeline integrated into the post/comment lifecycle
+- Real-time interactions with a clean, responsive UI
+- Scalable backend architecture with RESTful APIs
 
 [![View on GitHub](https://img.shields.io/badge/View_Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bexinhtoine/PBL5_KiemDuyetNoiDung)
+
+### 🎙️ MeetingMind AI — Smart Meeting Assistant
+
+> An AI-powered tool that **records, transcribes, and summarizes meetings** — then extracts decisions and action items automatically.
+
+Built to solve the problem of lost meeting context, MeetingMind AI turns raw conversations into structured, actionable outputs so teams can focus on execution rather than note-taking.
+
+**Key highlights:**
+- Audio recording and transcription pipeline powered by AI
+- Automatic meeting summarization with key decisions highlighted
+- Action Item extraction with owner and deadline detection
+
+[![View on GitHub](https://img.shields.io/badge/View_Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tom2404/MeetingMindAI)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Tom2404's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tom2404&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom2404&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+
+</div>
 
 ---
 
@@ -74,14 +99,9 @@ Built a mini social network that integrates AI to automatically review and moder
 <img src="https://en.dut.udn.vn/images/logo.png" height="60" align="left" style="margin-right:16px"/>
 
 **University of Science and Technology — The University of Da Nang (DUT)**<br/>
-🖥️ Faculty of Information Technology<br/>
-📅 3rd Year Student · Expected Graduation: 2027
+Faculty of Information Technology · 3rd Year Student · Expected Graduation: 2027
 
 <br clear="left"/>
-
-![DUT](https://img.shields.io/badge/DUT-Đại%20học%20Bách%20Khoa%20Đà%20Nẵng-003580?style=flat&logo=graduation-cap&logoColor=white)
-![Faculty](https://img.shields.io/badge/Khoa-Công%20Nghệ%20Thông%20Tin-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
-![Year](https://img.shields.io/badge/Năm%203-2024--2025-green?style=flat&logo=bookstack&logoColor=white)
 
 ---
 
