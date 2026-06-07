@@ -69,6 +69,22 @@ Built a mini social network that integrates AI to automatically review and moder
 
 ---
 
+## Education
+
+<img src="https://en.dut.udn.vn/images/logo.png" height="60" align="left" style="margin-right:16px"/>
+
+**University of Science and Technology — The University of Da Nang (DUT)**<br/>
+🖥️ Faculty of Information Technology<br/>
+📅 3rd Year Student · Expected Graduation: 2027
+
+<br clear="left"/>
+
+![DUT](https://img.shields.io/badge/DUT-Đại%20học%20Bách%20Khoa%20Đà%20Nẵng-003580?style=flat&logo=graduation-cap&logoColor=white)
+![Faculty](https://img.shields.io/badge/Khoa-Công%20Nghệ%20Thông%20Tin-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+![Year](https://img.shields.io/badge/Năm%203-2024--2025-green?style=flat&logo=bookstack&logoColor=white)
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a192f,50:0d2137,100:0a192f&height=140&section=footer&reversal=false&textBg=false" width="100%"/>
