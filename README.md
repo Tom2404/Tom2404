@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Đỗ%20Ngọc%20Lễ&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:0d1f2d,100:0a192f&height=180&section=header&text=Đỗ%20Ngọc%20Lễ&fontSize=52&fontColor=58A6FF&fontAlignY=45&desc=Full-stack%20Developer&descAlignY=68&descSize=18&descFontColor=8b949e&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -54,26 +54,106 @@ Full-stack Developer with a focus on building scalable web applications and intu
 
 ## Featured Project
 
-### 🔗 LC Network
+### 🔗 LC Network — AI-Powered Social Platform
+
 > A full-stack **social media platform** with AI-powered content moderation.
 
 Built a mini social network that integrates AI to automatically review and moderate user-generated content, ensuring a safe and healthy community environment.
 
 **Key highlights:**
-- AI content moderation pipeline integrated into the post/comment lifecycle
-- Real-time interactions with a clean, responsive UI
-- Scalable backend architecture with RESTful APIs
+- 🤖 AI content moderation pipeline integrated into the post/comment lifecycle
+- ⚡ Real-time interactions with a clean, responsive UI
+- 🏗️ Scalable backend architecture with RESTful APIs
 
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Tom2404)
+[![View on GitHub](https://img.shields.io/badge/View_Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bexinhtoine/PBL5_KiemDuyetNoiDung)
 
 ---
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tom2404&theme=nord&column=6&no-frame=true&margin-w=10" width="100%"/>
+<!-- Animated hexagon tech grid via SVG -->
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .hex { fill: none; stroke-width: 1.2; }
+      .h1 { stroke: #58A6FF; animation: pulse 3s ease-in-out infinite; }
+      .h2 { stroke: #1f6feb; animation: pulse 3s ease-in-out infinite 0.4s; }
+      .h3 { stroke: #388bfd; animation: pulse 3s ease-in-out infinite 0.8s; }
+      .h4 { stroke: #58A6FF; animation: pulse 3s ease-in-out infinite 1.2s; }
+      .h5 { stroke: #1f6feb; animation: pulse 3s ease-in-out infinite 1.6s; }
+      .h6 { stroke: #388bfd; animation: pulse 3s ease-in-out infinite 2.0s; }
+      .h7 { stroke: #58A6FF; animation: pulse 3s ease-in-out infinite 2.4s; }
+      .h8 { stroke: #1f6feb; animation: pulse 3s ease-in-out infinite 0.2s; }
+      .h9 { stroke: #388bfd; animation: pulse 3s ease-in-out infinite 1.0s; }
+      .h10{ stroke: #58A6FF; animation: pulse 3s ease-in-out infinite 1.8s; }
+      .h11{ stroke: #1f6feb; animation: pulse 3s ease-in-out infinite 2.2s; }
+      .h12{ stroke: #388bfd; animation: pulse 3s ease-in-out infinite 0.6s; }
+      @keyframes pulse {
+        0%,100% { opacity: 0.15; stroke-width: 1.2; }
+        50%      { opacity: 1;    stroke-width: 2;   }
+      }
+      .dot { fill: #58A6FF; animation: blink 2s ease-in-out infinite; }
+      .d2  { animation-delay: 0.5s; }
+      .d3  { animation-delay: 1s; }
+      .d4  { animation-delay: 1.5s; }
+      .d5  { animation-delay: 0.3s; }
+      .d6  { animation-delay: 0.9s; }
+      @keyframes blink {
+        0%,100% { opacity: 0.2; r: 2; }
+        50%      { opacity: 1;   r: 4; }
+      }
+      .line { stroke: #58A6FF; stroke-width: 0.6; opacity: 0.2; animation: linepulse 4s ease-in-out infinite; }
+      .l2 { animation-delay: 1s; }
+      .l3 { animation-delay: 2s; }
+      @keyframes linepulse {
+        0%,100% { opacity: 0.08; }
+        50%      { opacity: 0.4;  }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="120" fill="#0d1117" rx="8"/>
+
+  <!-- Connection lines -->
+  <line class="line"    x1="80"  y1="60"  x2="200" y2="40"  />
+  <line class="line l2" x1="200" y1="40"  x2="340" y2="70"  />
+  <line class="line l3" x1="340" y1="70"  x2="500" y2="30"  />
+  <line class="line"    x1="500" y1="30"  x2="650" y2="65"  />
+  <line class="line l2" x1="650" y1="65"  x2="790" y2="45"  />
+  <line class="line l3" x1="790" y1="45"  x2="870" y2="75"  />
+  <line class="line"    x1="150" y1="90"  x2="280" y2="55"  />
+  <line class="line l2" x1="420" y1="95"  x2="560" y2="60"  />
+  <line class="line l3" x1="600" y1="20"  x2="720" y2="85"  />
+
+  <!-- Hexagons: polygon points for flat-top hex size ~22 -->
+  <!-- hex cx cy: points = cx+r,cy  cx+r/2,cy+h  cx-r/2,cy+h  cx-r,cy  cx-r/2,cy-h  cx+r/2,cy-h  where r=22 h=19 -->
+  <polygon class="hex h1"  points="72,41  83,60  72,79  50,79  39,60  50,41"/>
+  <polygon class="hex h2"  points="170,25 181,44 170,63 148,63 137,44 148,25"/>
+  <polygon class="hex h3"  points="270,55 281,74 270,93 248,93 237,74 248,55"/>
+  <polygon class="hex h4"  points="360,20 371,39 360,58 338,58 327,39 338,20"/>
+  <polygon class="hex h5"  points="450,70 461,89 450,108 428,108 417,89 428,70"/>
+  <polygon class="hex h6"  points="540,15 551,34 540,53 518,53 507,34 518,15"/>
+  <polygon class="hex h7"  points="630,55 641,74 630,93 608,93 597,74 608,55"/>
+  <polygon class="hex h8"  points="720,25 731,44 720,63 698,63 687,44 698,25"/>
+  <polygon class="hex h9"  points="810,65 821,84 810,103 788,103 777,84 788,65"/>
+  <polygon class="hex h10" points="860,20 871,39 860,58 838,58 827,39 838,20"/>
+  <!-- smaller inner hexes -->
+  <polygon class="hex h11" points="72,49  79,60  72,71  58,71  51,60  58,49"/>
+  <polygon class="hex h12" points="540,23 547,34 540,45 526,45 519,34 526,23"/>
+
+  <!-- Glowing dots at nodes -->
+  <circle class="dot"    cx="80"  cy="60"  r="3"/>
+  <circle class="dot d2" cx="200" cy="40"  r="3"/>
+  <circle class="dot d3" cx="340" cy="70"  r="3"/>
+  <circle class="dot d4" cx="500" cy="30"  r="3"/>
+  <circle class="dot d5" cx="650" cy="65"  r="3"/>
+  <circle class="dot d6" cx="790" cy="45"  r="3"/>
+  <circle class="dot d2" cx="870" cy="75"  r="3"/>
+  <circle class="dot d3" cx="150" cy="90"  r="2"/>
+  <circle class="dot d5" cx="420" cy="95"  r="2"/>
+  <circle class="dot d6" cx="600" cy="20"  r="2"/>
+  <circle class="dot d4" cx="720" cy="85"  r="2"/>
+</svg>
 
 </div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
