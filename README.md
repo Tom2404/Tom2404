@@ -1,10 +1,12 @@
 <div align="center">
 
-# Đỗ Ngọc Lễ
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Đỗ%20Ngọc%20Lễ&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
-**Full-stack Developer**
+<br/>
 
-*Building clean, purposeful software — from UI to infrastructure.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+clean%2C+purposeful+software;From+UI+to+infrastructure;React+%2F+Next.js+%2B+Node.js+%2F+Express;Always+learning%2C+always+building...)](https://git.io/typing-svg)
+
+<br/>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/dongocle2404)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Dongocle2404@gmail.com)
@@ -66,21 +68,12 @@ Built a mini social network that integrates AI to automatically review and moder
 
 ---
 
-## GitHub Stats
-
 <div align="center">
 
-![Tom2404's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tom2404&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom2404&layout=compact&theme=default&hide_border=true)
+<img src="https://github-profile-trophy.vercel.app/?username=Tom2404&theme=nord&column=6&no-frame=true&margin-w=10" width="100%"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-*"Any application that can be written in JavaScript, will eventually be written in JavaScript."*
-— Jeff Atwood
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
