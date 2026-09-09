@@ -22,10 +22,10 @@ I'm a Full-stack Developer focused on building scalable web applications, intuit
 
 I enjoy working across the entire development process — from designing responsive interfaces to building backend systems, integrating databases, and deploying applications.
 
-* 🌱 Currently deepening my knowledge of **system architecture** and **AI integration**
-* 💻 Interested in **Web Development**, **Software Engineering**, and **AI-powered applications**
-* 🌐 Languages: Vietnamese 🇻🇳 · English 🇬🇧 · Japanese 🇯🇵 — JLPT N3
-* 📫 Contact: [Dongocle2404@gmail.com](mailto:Dongocle2404@gmail.com)
+*  Currently deepening my knowledge of **system architecture** and **AI integration**
+*  Interested in **Web Development**, **Software Engineering**, and **AI-powered applications**
+*  Languages: Vietnamese 🇻🇳 · English 🇬🇧 · Japanese 🇯🇵 — JLPT N3
+*  Contact: [Dongocle2404@gmail.com](mailto:Dongocle2404@gmail.com)
 
 ---
 
